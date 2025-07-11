@@ -1,0 +1,14 @@
+{
+  "name": "zayeka-foods",
+  "version": "1.0.0",
+  "description": "Zayeka Foods - A delicious food ordering website",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Sneha Nagayach",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
